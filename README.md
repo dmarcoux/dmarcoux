@@ -1,4 +1,6 @@
-# Salut! Hi! Hallo! 👋
+# Software and DevOps Engineer
+
+## Salut! Hi! Hallo! 👋
 
 I am Dany, a Québécois living in the beautiful city of [Freiburg im Breisgau](https://en.wikipedia.org/wiki/Freiburg_im_Breisgau) in Germany. I speak French 🇨🇦, English and German 🇩🇪.
 
