@@ -4,7 +4,7 @@
 
 I am Dany, a Québécois living in the beautiful city of [Freiburg im Breisgau](https://en.wikipedia.org/wiki/Freiburg_im_Breisgau) in Germany. I speak French 🇨🇦, English and German 🇩🇪.
 
-For the past 12+ years, I have worked as a **Software and DevOps Engineer**.  I [write](https://dmarcoux.com/) about DevOps, web development, Linux, Ruby and more.
+For the past 12+ years, I have worked as a **Software and DevOps Engineer**.  I [write](https://dmarcoux.com/) about web development, DevOps, Ruby, Elixir and more.
 
 ## Skills
 
